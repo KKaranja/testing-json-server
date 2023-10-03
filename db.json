@@ -21,6 +21,13 @@
       "active": false,
       "expiresIn": null,
       "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "adminpassword",
+      "active": true
     }
   ]
 }
