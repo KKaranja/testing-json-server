@@ -1,12 +1,26 @@
 {
   "employee": [
     {
+      "id": 1,
+      "name": "Isaac Kimura",
+      "email": "isaackimura74@gmail.com",
+      "phone": "0724996893",
+      "active": true
+    },
+    {
       "id": 2,
       "name": "Isaac Kimura",
-      "email": "isaackimura70@gmail.com",
+      "email": "isaackimura11@gmail.com",
+      "phone": "0724996893",
+      "active": false
+    },
+    {
+      "name": "Isaac Kimura",
+      "email": "isaackimuut74@gmail.com",
       "phone": "0724996893",
       "active": false,
-      "expiresIn": null
+      "expiresIn": null,
+      "id": 3
     }
   ]
 }
