@@ -15,15 +15,17 @@
       "active": false
     },
     {
+      "id": 3,
       "name": "Isaac Kimura",
       "email": "isaackimuut74@gmail.com",
       "phone": "0724996893",
       "active": false,
-      "expiresIn": null,
-      "id": 3
-    },
+      "expiresIn": null
+    }
+  ],
+  "admin": [
     {
-      "id": 4,
+      "id": 1,
       "name": "Admin User",
       "email": "admin@example.com",
       "password": "adminpassword",
