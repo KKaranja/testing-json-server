@@ -31,6 +31,14 @@
       "phone": "078356890",
       "active": false,
       "subscribedOn": ""
+    },
+    {
+      "name": "mainawamai",
+      "email": "wamai@who.com",
+      "phone": "0734588932",
+      "active": false,
+      "subscribedOn": "",
+      "id": 9
     }
   ],
   "admin": [
