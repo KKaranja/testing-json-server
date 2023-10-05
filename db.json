@@ -9,20 +9,12 @@
       "subscribedOn": "2023-10-05T14:32:15.034Z"
     },
     {
-      "id": 6,
-      "name": "mimi ",
-      "email": "mimi@example.com",
-      "phone": "07234445678",
-      "active": false,
-      "subscribedOn": null
-    },
-    {
+      "id": 7,
       "name": "John Doe",
       "email": "jdoe@gmail.com",
       "phone": "0734997800",
-      "active": false,
-      "subscribedOn": "",
-      "id": 7
+      "active": true,
+      "subscribedOn": "2023-10-05T15:05:55.995Z"
     },
     {
       "id": 8,
