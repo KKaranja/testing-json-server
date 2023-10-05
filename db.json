@@ -1,26 +1,36 @@
 {
   "employee": [
     {
-      "id": 1,
-      "name": "Isaac Kimura",
-      "email": "isaackimura74@gmail.com",
-      "phone": "0724996893",
-      "active": true
+      "id": 5,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "phone": "0724678909",
+      "active": true,
+      "subscribedOn": "2023-10-05T14:32:15.034Z"
     },
     {
-      "id": 2,
-      "name": "Isaac Kimura",
-      "email": "isaackimura11@gmail.com",
-      "phone": "0724996893",
-      "active": false
-    },
-    {
-      "id": 3,
-      "name": "Isaac Kimura",
-      "email": "isaackimuut74@gmail.com",
-      "phone": "0724996893",
+      "id": 6,
+      "name": "mimi ",
+      "email": "mimi@example.com",
+      "phone": "07234445678",
       "active": false,
-      "expiresIn": null
+      "subscribedOn": null
+    },
+    {
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "phone": "0734997800",
+      "active": false,
+      "subscribedOn": "",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "James maina",
+      "email": "jmain@yahoo.com",
+      "phone": "078356890",
+      "active": false,
+      "subscribedOn": ""
     }
   ],
   "admin": [
