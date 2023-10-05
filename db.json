@@ -1,38 +1,5 @@
 {
-  "employee": [
-    {
-      "id": 5,
-      "name": "admin",
-      "email": "admin@gmail.com",
-      "phone": "0724678909",
-      "active": true,
-      "subscribedOn": "2023-10-05T14:32:15.034Z"
-    },
-    {
-      "id": 7,
-      "name": "John Doe",
-      "email": "jdoe@gmail.com",
-      "phone": "0734997800",
-      "active": true,
-      "subscribedOn": "2023-10-05T15:05:55.995Z"
-    },
-    {
-      "id": 8,
-      "name": "James maina",
-      "email": "jmain@yahoo.com",
-      "phone": "078356890",
-      "active": false,
-      "subscribedOn": ""
-    },
-    {
-      "name": "mainawamai",
-      "email": "wamai@who.com",
-      "phone": "0734588932",
-      "active": false,
-      "subscribedOn": "",
-      "id": 9
-    }
-  ],
+  "employee": [],
   "admin": [
     {
       "id": 1,
