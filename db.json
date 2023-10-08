@@ -1,11 +1,82 @@
 {
-  "employee": [],
+  "employee": [
+    {
+      "id": 1,
+      "name": "isaac mwangi",
+      "email": "mwangi@gmail.com",
+      "phone": "0723456789",
+      "active": true,
+      "subscribedOn": "2023-10-05T22:14:43.126Z"
+    },
+    {
+      "id": 2,
+      "name": "Isaac Kimari",
+      "email": "isaacki4@gmail.com",
+      "phone": "0724556798",
+      "active": true,
+      "subscribedOn": "2023-10-07T22:04:17.692Z"
+    },
+    {
+      "id": 3,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "phone": "0734567890",
+      "active": true,
+      "subscribedOn": "2023-10-05T22:49:06.431Z"
+    },
+    {
+      "id": 4,
+      "name": "John maina",
+      "email": "jmaina@yahoo.com",
+      "phone": "0724567342",
+      "active": true,
+      "subscribedOn": "2023-10-06T21:02:46.994Z"
+    },
+    {
+      "id": 5,
+      "name": "Maaruf Sudi",
+      "email": "maarufsudi9@gmail.com",
+      "phone": "0111368946",
+      "active": true,
+      "subscribedOn": "2023-10-06T21:43:51.560Z"
+    },
+    {
+      "name": "mary john",
+      "email": "jmary@example.com",
+      "phone": "0723456789",
+      "active": false,
+      "subscribedOn": "",
+      "id": 6
+    },
+    {
+      "name": "John Muriu",
+      "email": "moriujohn@mimifiness.com",
+      "phone": "0723786534",
+      "active": false,
+      "subscribedOn": "",
+      "id": 7
+    }
+  ],
   "admin": [
     {
       "id": 1,
       "name": "Admin User",
       "email": "admin@example.com",
-      "password": "adminpassword",
+      "password": "2@IG(y+>S+2F4UV2",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Isaac Kimura",
+      "email": "isaackimura74@gmail.com",
+      "password": "4c7_i3Wi3n!Z@L3<",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Maaruf Sudi",
+      "email": "maarufsudi9@gmail.com",
+      "password": "U[hU51I-'05P6(;Z",
       "active": true
     }
   ]
