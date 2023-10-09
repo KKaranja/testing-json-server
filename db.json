@@ -1,61 +1,21 @@
 {
   "employee": [
-    {
-      "id": 1,
-      "name": "isaac mwangi",
-      "email": "mwangi@gmail.com",
-      "phone": "0723456789",
-      "active": true,
-      "subscribedOn": "2023-10-05T22:14:43.126Z"
-    },
-    {
-      "id": 2,
-      "name": "Isaac Kimari",
-      "email": "isaacki4@gmail.com",
-      "phone": "0724556798",
-      "active": true,
-      "subscribedOn": "2023-10-07T22:04:17.692Z"
-    },
-    {
-      "id": 3,
-      "name": "admin",
-      "email": "admin@gmail.com",
-      "phone": "0734567890",
-      "active": true,
-      "subscribedOn": "2023-10-05T22:49:06.431Z"
-    },
-    {
-      "id": 4,
-      "name": "John maina",
-      "email": "jmaina@yahoo.com",
-      "phone": "0724567342",
-      "active": true,
-      "subscribedOn": "2023-10-06T21:02:46.994Z"
-    },
-    {
-      "id": 5,
-      "name": "Maaruf Sudi",
-      "email": "maarufsudi9@gmail.com",
-      "phone": "0111368946",
-      "active": true,
-      "subscribedOn": "2023-10-06T21:43:51.560Z"
-    },
-    {
-      "name": "mary john",
-      "email": "jmary@example.com",
-      "phone": "0723456789",
-      "active": false,
-      "subscribedOn": "",
-      "id": 6
-    },
-    {
-      "name": "John Muriu",
-      "email": "moriujohn@mimifiness.com",
-      "phone": "0723786534",
-      "active": false,
-      "subscribedOn": "",
-      "id": 7
-    }
+   {
+    "name": "Elly Osii",
+    "email": "osiihans2@gmail.com",
+    "phone": "0772837625",
+    "active": true,
+    "subscribedOn": "2023-10-09T07:44:54.369Z",
+    "id": 1
+  },
+  {
+    "name": "Daniel Wanyoro",
+    "email": "muigaidaniel81@gmail.com",
+    "phone": "0112931881",
+    "active": true,
+    "subscribedOn": "2023-10-09T09:28:47.100Z",
+    "id": 2
+  }
   ],
   "admin": [
     {
