@@ -1,27 +1,27 @@
 {
   "employee": [
-   {
-    "name": "Elly Osii",
-    "email": "osiihans2@gmail.com",
-    "phone": "0772837625",
-    "active": true,
-    "subscribedOn": "2023-10-09T07:44:54.369Z",
-    "id": 1
-  },
-  {
-    "name": "Daniel Wanyoro",
-    "email": "muigaidaniel81@gmail.com",
-    "phone": "0112931881",
-    "active": true,
-    "subscribedOn": "2023-10-09T09:28:47.100Z",
-    "id": 2
-  }
+    {
+      "name": "Elly Osii",
+      "email": "osiihans2@gmail.com",
+      "phone": "0772837625",
+      "active": true,
+      "subscribedOn": "2023-10-09T07:44:54.369Z",
+      "id": 1
+    },
+    {
+      "name": "Daniel Wanyoro",
+      "email": "muigaidaniel81@gmail.com",
+      "phone": "0112931881",
+      "active": true,
+      "subscribedOn": "2023-10-09T09:28:47.100Z",
+      "id": 2
+    }
   ],
   "admin": [
     {
       "id": 1,
       "name": "Admin User",
-      "email": "admin@example.com",
+      "email": "estherritaw8@gmail.com",
       "password": "2@IG(y+>S+2F4UV2",
       "active": true
     },
